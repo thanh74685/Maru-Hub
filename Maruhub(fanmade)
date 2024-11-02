@@ -1,0 +1,11 @@
+Config = {
+
+namescript "Maru Hub",--Tên Script
+
+logoscript "92379535810500",--ID Logo Script
+
+tacgia "Rip_lehuuthanhcuti"-- Tên Tác Giả
+
+}
+
+loadstring(game: HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua")))
